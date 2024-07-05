@@ -2,13 +2,15 @@
 title: Rui Xie
 position: Associate Professor
 affiliation: Department of Statistics & Data Science, and College of Nursing, University of Central Florida
+affiliation_link: https://sciences.ucf.edu/statistics/aistats/
+affiliation_logo: ./assets/img/ucf-logo.png
 email: Rui.Xie (at) ucf.edu
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: minimal light
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
-canonical: https://minimal-light-theme.yliu.me/
+keywords: ruixie, rui xie, ruixie7, rui-xie-ucf, rui.xie.ucf
+description: Rui Xie is an Associate Professor at the University of Central Florida. His research focuses on Statistics, Machine Learning, Data Science, Biostatistics, and AI for health and nursing.
+canonical: https://ruixie7.github.io/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
@@ -19,9 +21,9 @@ orcid_id: https://orcid.org/0000-0001-9769-8131
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/avatar.png
-favicon: ./assets/img/favicon.png
-favicon_dark: ./assets/img/favicon-dark.png
+avatar: ./assets/img/prof_pic.jpeg
+favicon: ./assets/img/favicon.ico
+favicon_dark: ./assets/img/favicon.ico
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
