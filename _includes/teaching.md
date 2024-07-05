@@ -1,4 +1,6 @@
-**University of Central Florida**
+## Teaching
+
+at **University of Central Florida**
 
 STA 6367, Data Science II 
 Spring 2024
