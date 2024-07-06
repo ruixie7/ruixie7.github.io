@@ -14,7 +14,7 @@ The applicability of our work extends to numerous fields within healthcare, such
 
 {% include_relative _includes/news.md %}
 
-## Publications
+## Publications <span style="font-size:15px;">[</span><a href="https://scholar.google.com/citations?user=dYTCyDoAAAAJ" target="_blank" style="font-size:15px;">Google Scholar</a><span style="font-size:15px;">]</span>
 
 {% include_relative _includes/publications %}
 
@@ -23,3 +23,5 @@ The applicability of our work extends to numerous fields within healthcare, such
 {% include_relative _includes/services.md %}
 
 {% include_relative _includes/contact.md %}
+
+
