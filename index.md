@@ -4,6 +4,14 @@ layout: homepage
 
 ## About Me
 
+I am a tenured Associate Professor with appointments in both the [UCF College of Nursing](https://nursing.ucf.edu/people/rui-xie/) and the [UCF College of Sciences in the Department of Statistics and Data Science](https://sciences.ucf.edu/statistics/person/rui-xie/).
+
+### Education
+
+- **PhD in Statistics** from the [University of Georgia](https://www.uga.edu/)
+- **MS in Statistics** from the [Georgia Institute of Technology](https://www.gatech.edu/)
+- **B.S. in Physics** from [Xiamen University](https://en.xmu.edu.cn/)
+- **B.S. in Quantitative Finance** from [Xiamen University](https://en.xmu.edu.cn/)
 
 
 
@@ -16,8 +24,7 @@ The applicability of my work extends to numerous fields within healthcare, such 
 
 {% include_relative _includes/news.md %}
 
-## Publications 
-<span style="font-size:15px;">[</span><a href="https://scholar.google.com/citations?user=dYTCyDoAAAAJ" target="_blank" style="font-size:15px;">Google Scholar</a><span style="font-size:15px;">]</span>
+## Publications <span style="font-size:15px;">[</span><a href="https://scholar.google.com/citations?user=dYTCyDoAAAAJ" target="_blank" style="font-size:15px;">Google Scholar</a><span style="font-size:15px;">]</span>
 
 {% include_relative _includes/publications %}
 
