@@ -14,6 +14,8 @@ The applicability of our work extends to numerous fields within healthcare, such
 
 {% include_relative _includes/news.md %}
 
+## Publications
+
 {% include_relative _includes/publications %}
 
 {% include_relative _includes/teaching.md %}
