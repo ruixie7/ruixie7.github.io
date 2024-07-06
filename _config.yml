@@ -14,6 +14,7 @@ canonical: https://ruixie7.github.io/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
+link_type: icon #text/icon
 google_scholar: https://scholar.google.com/citations?user=dYTCyDoAAAAJ&hl=en
 cv_link: assets/files/curriculum_vitae.pdf
 github_link: https://github.com/rui-xie-ucf
